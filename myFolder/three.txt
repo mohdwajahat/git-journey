@@ -1,8 +1,3 @@
 three
-<<<<<<< Updated upstream
-updated 3 in github
-3333
-=======
 
 new features
->>>>>>> Stashed changes
